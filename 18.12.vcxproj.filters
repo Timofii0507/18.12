@@ -5,9 +5,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="lab2.cpp" />
     <ClCompile Include="main2.cpp" />
+    <ClCompile Include="hm.cpp" />
+    <ClCompile Include="main3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lab.h" />
     <ClInclude Include="lab2.h" />
+    <ClInclude Include="hm.h" />
   </ItemGroup>
 </Project>
